@@ -1,0 +1,190 @@
+/**
+* 2007-2022 PrestaShop
+*
+* NOTICE OF LICENSE
+*
+* This source file is subject to the Academic Free License (AFL 3.0)
+* that is bundled with this package in the file LICENSE.txt.
+* It is also available through the world-wide-web at this URL:
+* http://opensource.org/licenses/afl-3.0.php
+* If you did not receive a copy of the license and are unable to
+* obtain it through the world-wide-web, please send an email
+* to license@prestashop.com so we can send you a copy immediately.
+*
+* DISCLAIMER
+*
+* Do not edit or add to this file if you wish to upgrade PrestaShop to newer
+* versions in the future. If you wish to customize PrestaShop for your
+* needs please refer to http://www.prestashop.com for more information.
+*
+*  @author PrestaShop SA <contact@prestashop.com>
+*  @copyright  2007-2022 PrestaShop SA
+*  @license    http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
+*  International Registered Trademark & Property of PrestaShop SA
+*/
+
+/************* category ***************/
+.tvcategory-slider-content-box {
+/*    display: flex;
+    overflow: hidden;*/
+}
+.tvcategory-slider-wrapper-info {
+    /*display: inline-block;*/
+}
+.tvcmscategory-slider {
+    position: relative;
+    margin-bottom: 100px;
+}
+.tvcategory-slider-wrapper-info {
+    /*padding: 0 15px;*/
+    /*position: relative;*/
+    /*min-width: 212px;*/
+}
+
+.tvcategory-slider-wrapper-info:hover .tvcategory-img-block {
+    /*border: 1px dashed #350066;*/
+    /*border-radius: 100%;*/
+}
+
+.owl-item .tvcategory-slider-wrapper-info {
+    min-width: initial;
+}
+.tvcategory-slider-info-box {
+    position: initial;
+    text-align: center;
+    transition: all 0.6s ease-in-out 0s;
+    -webkit-transition: all 0.6s ease-in-out 0s;
+    -moz-transition: all 0.6s ease-in-out 0s;
+    -ms-transition: all 0.6s ease-in-out 0s;
+    -o-transition: all 0.6s ease-in-out 0s;
+    transform: unset;
+}
+.tvcategory-slider-main-title-wrapper {
+    position: relative;
+}
+.tvcategory-slider-inner-info-box {
+    margin-left: -15px;
+    margin-right: -15px;
+}
+@media (max-width: 991px) {
+    .tvcmscategory-slider {
+        margin-bottom: 50px;
+    }
+}
+.tvcmscategory-slider {
+    margin-bottom: 50px;
+}
+.tvcategory-img-block {
+    text-align: center;
+}
+.tvcategory-slider-inner-info-box {
+    /*background-color: #ffffff;*/
+    /*border: 1px solid rgba(0, 0, 0, 0.07);*/
+    border-radius: 3px;
+    /*padding: 15px 0;*/
+}
+.tvcategory-slider-wrapper-info a {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    background-color: #fff;
+    padding: 0;
+    margin-bottom: 35px;
+    border: 2px solid #eee;
+    border-radius: 3px;
+    justify-content: center;
+    transition: all 0.6s ease-in-out 0s;
+    -webkit-transition: all 0.6s ease-in-out 0s;
+    -moz-transition: all 0.6s ease-in-out 0s;
+    -ms-transition: all 0.6s ease-in-out 0s;
+    -o-transition: all 0.6s ease-in-out 0s;
+}
+.tvcategory-slider-info-box {
+    position: absolute;
+    background-color: #fff;
+    left: 15%;
+    right: 0;
+    bottom: 24px;
+    top: unset;
+    width: 70%;
+}
+.tvcategory-slider-wrapper-info:hover .tvcategory-slider-info-box {
+    color: #222222;
+}
+.tvcategory-slider-wrapper-info {
+    padding: 0 7.5px;
+    position: relative;
+    text-align: center;
+}
+@media (max-width: 991px) {
+    .tvcmscategory-slider {
+        margin-bottom: 30px;
+    }
+    .tvcategory-slider-inner-info-box {}
+}
+@media(max-width: 575px) {
+    .tvcategory-slider-inner-info-box {
+        padding: 0;
+    }
+    .tvcategory-slider-wrapper-info {
+        padding: 0 10px 12px 10px;
+    }
+}
+
+.tvcategory-slider-info-box .tvcmscategory-slider-title {
+    color: #222;
+    font-size: 16px;
+    text-transform: capitalize;
+    font-weight: 500;
+    letter-spacing: .3px;
+    position: relative;
+    right: 0;
+    top: 0;
+    -webkit-transition: all 0.4s ease-in-out;
+    -o-transition: all 0.4s ease-in-out;
+    transition: all 0.4s ease-in-out;
+}
+.tvcategory-chain-slider-category a:hover {
+    color: #28a745;
+}
+.tvcategory-slider-info-box .tvcmscategory-slider-btn {
+    margin-top: 10px;
+    display: inline-block;
+}
+.tvcmscategory-slider-icon {
+    display: inline-block;
+    background-color: #350066;
+    vertical-align: middle;
+    color: #fff;
+    width: 19px;
+    height: 19px;
+    border-radius: 100%;
+    margin-left: 5px;
+}
+.tvcategory-slider-wrapper-info .tvcategory-slider-title:hover {
+    border: 2px solid #28a745;
+    border-radius: 3px;
+}
+.tvcategory-slider-wrapper-info .tvcategory-slider-title:hover .tvcmscategory-slider-title {
+    color: #28a745;
+}
+.tvcmscategory-slider-icon i {
+    font-size: 14px;
+    line-height: 11px;
+}
+.tvcategory-slider-wrapper-info:hover .tvcategory-slider-info-box {
+    color: #c70909;
+}
+.tvcategory-img-block img {
+    border-radius: 3px;
+}
+.lang-rtl .tvcategory-slider-info-box {
+    left: auto;
+    right: auto;
+}
+
+@media(max-width: 425px) {
+    .tvcategory-slider-wrapper-info {
+        width: 100%;
+    }
+}

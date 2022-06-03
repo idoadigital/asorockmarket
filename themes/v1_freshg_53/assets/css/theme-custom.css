@@ -1,0 +1,582 @@
+*::-webkit-scrollbar-thumb {
+    background-color: #maincolor1;
+}
+
+.btn-outline-primary,
+.btn-link,
+.page-link,
+.text-primary,
+.btn-unstyle:focus .expand-more,
+.dropdown-item:focus,
+.dropdown-item:hover,
+.search-widget form input[type=text]:focus+button .search,
+.search-widget form button[type=submit] .search:hover,
+#header .top-menu a[data-depth="0"]:hover,
+.top-menu .sub-menu a:hover,
+.page-my-account #content .links a:hover i,
+.carousel .carousel-control .icon-next:hover i,
+.carousel .carousel-control .icon-prev:hover i,
+/*.pagination .current a,*/
+.tabs .nav-tabs .nav-link.active,
+#blockcart-modal .product-name,
+.cart-grid-body a.label:hover,
+.block_newsletter form input[type=text]:focus+button .search,
+.block_newsletter form button[type=submit] .search:hover,
+.account-list a:hover,
+#header .header-nav .blockcart a:hover,
+#wrapper .breadcrumb li:last-child a,
+#wrapper .breadcrumb li:hover a,
+#search_filters_brands .facet .tvsearch-filter-brand-wrapper li.facet-label a:hover,
+.tvserach-filter-suppliers p:hover,
+#search_filters_suppliers .facet .tvserach-filter-suppliers li.facet-label a:hover,
+.blog_post_content p.meta_category a:hover,
+.modal-body.tv-addtocart-content-part .tv-addtocart-price,
+.tv-myaccount-btn-desktop:hover span {
+    color: #maincolor1;
+}
+.btn-primary:hover,
+.btn-info.active.focus,
+.btn-info.active:focus,
+.btn-info.active:hover,
+.btn-info:active.focus,
+.btn-info:active:focus,
+.btn-info:active:hover,
+.open>.btn-info.dropdown-toggle.focus,
+.open>.btn-info.dropdown-toggle:focus,
+.open>.btn-info.dropdown-toggle:hover,
+.btn-outline-primary.active,
+.btn-outline-primary.focus,
+.btn-outline-primary:active,
+.btn-outline-primary:focus,
+.btn-outline-primary:hover,
+.open>.btn-outline-primary.dropdown-toggle,
+.btn-outline-info.active.focus,
+.btn-outline-info.active:focus,
+.btn-outline-info.active:hover,
+.btn-outline-info:active.focus,
+.btn-outline-info:active:focus,
+.btn-outline-info:active:hover,
+.open>.btn-outline-info.dropdown-toggle.focus,
+.open>.btn-outline-info.dropdown-toggle:focus,
+.open>.btn-outline-info.dropdown-toggle:hover,
+.dropdown-item.active,
+.dropdown-item.active:focus,
+.dropdown-item.active:hover,
+.nav-pills .nav-item.open .nav-link,
+.nav-pills .nav-item.open .nav-link:focus,
+.nav-pills .nav-item.open .nav-link:hover,
+.nav-pills .nav-link.active,
+.nav-pills .nav-link.active:focus,
+.nav-pills .nav-link.active:hover,
+.card-primary,
+.page-item.active .page-link,
+.page-item.active .page-link:focus,
+.page-item.active .page-link:hover,
+.tag-primary,
+.list-group-item.active,
+.list-group-item.active:focus,
+.list-group-item.active:hover,
+.bg-primary,
+.bootstrap-touchspin .group-span-filestyle .btn-touchspin,
+.group-span-filestyle .bootstrap-touchspin .btn-touchspin,
+.group-span-filestyle .btn-default,
+.custom-radio input[type=radio]:checked+span,
+body#checkout section.checkout-step .delete-address,
+body#checkout section.checkout-step .edit-address,
+.products-sort-order .select-list:hover,
+.facet-dropdown .select-list:hover,
+#header .header-nav .cart-preview.active,
+/*.page-footer a,*/
+#newsletter_block_popup .block_content .send-reqest:hover,
+/*.footer_links.wishlist_footer a,*/
+.tvwishlist-send-mess-btn .button-small,
+.tvcmsNewsLetterPopup-i .tvnewsletterpopup-button-icon:hover,
+/*.tvblob-all-submit-btn .tvcmsblog_submit_btn,*/
+::selection,
+.tvsticky-up-arrow:hover,
+.tvsticky-wishlist:hover,
+.tvsticky-compare:hover,
+.tvright-sticky-account:hover,
+.tvright-sticky-add-to-cart:hover,
+.newsletter_block_popup-bottom label:after,
+.cart-content-btn a.tvall-inner-btn,
+.tvcontainer-layout-header,
+#tvcmsdesktop-main-menu .tvcmsmain-menu-wrapper .tv-header-menu[data-depth="0"]>li>.tvmenu-link-wrapper a span:after,
+.tvmain-slider-content-inner.active:after,
+/*.tvtheme-control-wrapper .tvtheme-option .btn-primary,*/
+/*.tvtheme-control-wrapper .tvtheme-control-reset:hover,*/
+.tvcmstheme-control .tvtheme-control-wrapper .tvselect-theme select option:hover,
+.tvcmstheme-control .tvtheme-control-icon:hover,
+.tvcmstheme-layout .tvtheme-layout-icon:hover,
+/*#products.grid .tvproduct-view.tvproduct-grid,
+#products.grid-2 .tvproduct-view.tvproduct-grid-2,
+#products.list .tvproduct-view.tvproduct-list,*/
+.tvmain-slider-contant .tvmain-slider-button,
+.tvbottom-to-top:hover,
+.tvvertical-menu-img-block,
+.tvnewsleteer-btn-wrapper .btn-primary:hover,
+.tvproduct-cart-quentity-increment:hover,
+.tvproduct-cart-quentity-decrement:hover,
+.tvcart-product-list-checkout,
+.tvcart-product-list-viewcart:hover,
+/*.tvcms-left-column-wrapper .tv-left-pannal-btn-wrapper:hover,*/
+/*#products.list-2 .tvproduct-view.tvproduct-list-2,
+#products.catelog .tvproduct-view.tvproduct-catelog,
+.tvcmsproduct-grid-list .tvproduct-view:hover,*/
+/*.tv_search_filter_wrapper .tvleft-right-title-wrapper:hover,*/
+.tvcart-product-list-checkout:hover,
+button.close-cookie.tvclose-icon,
+.ttvcmscart-show-dropdown-right .ttvcart-product-list-checkout,
+.ttvcmscart-show-dropdown-right .ttvcart-product-list-viewcart:hover,
+.tvproduct-wrapper .tvproduct-cart-btn .tvproduct-add-to-cart,
+.tvproduct-wrapper .tvproduct-quick-btn .tvproduct-quick-icon,
+.tvproduct-wrapper .tvproduct-wishlist .tvproduct-wishlist-icon,
+.tvproduct-wrapper .tvcompare-wrapper .tvproduct-compare-icon,
+.tvtab-title-wrapper .tvtabs-products li.active,
+.tvnewsleteer-btn-wrapper .tvall-inner-btn,
+.tvfooter-copy-payment-icon-wrapper,
+.tvcmsattrsearch-wrapper form button,
+.tvcmscategory-slider-icon,
+.tvcategory-name-image::-webkit-scrollbar-thumb,
+.tvall-inner-btn,
+.nivo-controlNav .nivo-control.active,
+.owl-theme .owl-dots .owl-dot.active span,
+.owl-theme .owl-dots .owl-dot:hover span,
+.tvcmsofferbanners-one .tvall-inner-btn:hover {
+    background-color: #maincolor1;
+}
+
+/*.tvcms-header-menu-offer-wrapper,*/
+.tvtabs-products .tvtab-name:before,
+/*.tvcmsheader-sticky.sticky,*/
+.tvcategory-title-wrapper,
+.tvcategory-slider-info-box:after,
+/*.tvcmsmobile-header-menu-offer-text,*/
+#blockcart-modal .modal-header,
+/*.tvcmsprev-btn:hover,
+.tvcmsnext-btn:hover,*/
+.tvproduct-wrapper .tvproduct-quick-btn:hover .tvproduct-quick-icon,
+.tvproduct-wrapper .tvproduct-cart-btn:hover .tvproduct-add-to-cart,
+.tvproduct-wrapper .tvproduct-wishlist:hover .tvproduct-wishlist-icon,
+.tvproduct-wrapper .tvcompare-wrapper:hover .tvproduct-compare-icon,
+.tvproduct-wrapper .tvproduct-cart-btn:hover .tvproduct-out-of-stock,
+.tvproduct-wrapper .tvproduct-cart-btn .tvproduct-add-to-cart.tvproduct-out-of-stock,
+.tvall-inner-btn:hover:after,
+.tvcompare-wrapper .tvproduct-compare-icon i.remove,
+.tv-menu-horizontal>ul>li.home_menu>a:before,
+.tv-menu-horizontal>ul>li:hover>a:before,
+.tv-cart-cart-inner,
+.header-7 .tv-cart-wishlist-inner,
+.tvcategory-slider-info-box:before,
+.tvtabcategory-product-li:hover .tvtabcategory-product-li-inner-block,
+.tvtabcategory-product-li.active .tvtabcategory-product-li-inner-block,
+.tvcms-main-title .tvmain-title:before,
+#left-column .tvleft-right-title:before,
+#tvmain-slider.owl-theme .owl-dots .owl-dot.active span,
+.tvcmsofferbanners-one .tvall-inner-btn,
+.tvcmsblog-left-side .tvblog-img-block .date_time.tvdate-time {
+    background-color: #maincolor2;
+    /*border: 1px solid #maincolor2;*/
+}
+
+.btn-info.active.focus,
+.btn-info.active:focus,
+.btn-info.active:hover,
+.btn-info:active.focus,
+.btn-info:active:focus,
+.btn-info:active:hover,
+.open>.btn-info.dropdown-toggle.focus,
+.open>.btn-info.dropdown-toggle:focus,
+.open>.btn-info.dropdown-toggle:hover,
+.btn-outline-primary,
+.btn-outline-primary.active,
+.btn-outline-primary.focus,
+.btn-outline-primary:active,
+.btn-outline-primary:focus,
+.btn-outline-primary:hover,
+.open>.btn-outline-primary.dropdown-toggle,
+.btn-outline-info.active.focus,
+.btn-outline-info.active:focus,
+.btn-outline-info.active:hover,
+.btn-outline-info:active.focus,
+.btn-outline-info:active:focus,
+.btn-outline-info:active:hover,
+.open>.btn-outline-info.dropdown-toggle.focus,
+.open>.btn-outline-info.dropdown-toggle:focus,
+.open>.btn-outline-info.dropdown-toggle:hover,
+.card-primary,
+.card-outline-primary,
+.page-item.active .page-link,
+.page-item.active .page-link:focus,
+.page-item.active .page-link:hover,
+.list-group-item.active,
+.list-group-item.active:focus,
+.list-group-item.active:hover,
+/*.tvblob-all-submit-btn .tvcmsblog_submit_btn,*/
+.tv_search_filter_wrapper .tvleft-right-title-wrapper:hover,
+.tvcategory-slider-wrapper-info:hover .tvcategory-img-block {
+    border-color: #maincolor1;
+}
+.tvcms-header-myaccount .tv-account-dropdown {
+    /*border-bottom-color: #maincolor1;*/
+}
+.block-categories,
+.tvcategory-slider-wrapper-info .tvcategory-slider-title:hover {
+    border-color: #maincolor2;
+}
+.facet-dropdown.open>.select-title {
+    border: 3px solid #maincolor1;
+}
+#product-modal .modal-content .modal-body .product-images img:hover {
+    border: 1px solid #maincolor1;
+}
+.product-images>li.thumb-container>.thumb.selected,
+.product-images>li.thumb-container>.thumb:hover {
+    border: 2px solid #maincolor1;
+}
+/**************** theme color ****************/
+#tvcmsdesktop-main-menu .tvcmsmain-menu-wrapper .tv-header-menu[data-depth="1"]>li>.tvmenu-link-wrapper a span:hover,
+.tvblog-event-all-content-block .tvnews-event-titel a:hover,
+.tvcmsdesktop-view-wishlist .tvwishlist-name:hover span,
+.tvcmsdesktop-view-compare .tvdesktop-view-compare-name:hover,
+#tvcmsdesktop-user-info:hover .tvhedaer-sign-btn i,
+#tvcmsdesktop-user-info .tvhedaer-sign-btn:hover,
+.tvcategory-chain-slider-category a:hover:after,
+.tvcategory-chain-slider-category a:hover,
+.tvnews-event-link a:hover,
+.tvallproduct-link a:hover,
+.tvleft-right-penal-all-block .tvall-product-bottom-link-block a:hover,
+.tvcmsblog-left-side .tvnews-event-link a:hover,
+.tvfooter-view-link a:hover,
+.tvnews-event-link a:hover i,
+.tvallproduct-link a:hover i,
+.tvfooter-store-link a:hover,
+.footer-container li a:hover,
+.product-price .current-price .price,
+.product-flags.tvproduct-sale-pack-wrapper li,
+.tvleft-right-penal-all-block .tvall-product-bottom-link-block a:hover i,
+.tvcmsblog-left-side .tvnews-event-link a:hover i,
+.tvfooter-view-link a:hover i,
+.tvmenu-link-wrapper .tvdropdown-submenu.tvmenu-link span:hover,
+.tvsearch-dropdown-total-wrapper:hover .tvsearch-dropdown-total,
+.tvinstagram-slider-title-wrapper .tvinstagram-user-name,
+.custom-checkbox input[type=checkbox]+span .checkbox-checked,
+.tvproduct-wishlist-compare .tvcompare-wrapper:hover i,
+.tvproduct-wishlist-compare .tvcompare-wrapper:hover span,
+.tvproduct-wishlist-compare .tvproduct-wishlist:hover i,
+.tvproduct-wishlist-compare .tvproduct-wishlist:hover span,
+.tvsearch-dropdown-wrapper:hover .tvsearch-dropdown-content-box .tvsearch-dropdown-title,
+.ttvcmscart-show-dropdown-right .tvcart-product-content .product-price,
+.ttvcmscart-show-dropdown-right .ttvcart-product-label-value.total .ttvcart-product-value,
+.tv-account-dropdown a.tvmyccount:hover,
+.tvcategory-chain-slider-category:hover,
+.cms-description a,
+.tv-sub-category-inner:hover .tvcategory-name a,
+.tvdesktop-wishlist:hover .tvwishlist-name span,
+.tvcmsdesktop-view-compare:hover .tvdesktop-view-compare-name,
+.tvdesktop-wishlist:hover .tvwishlist-icon i,
+.tvdesktop-view-compare:hover .tvdesktop-compare-icon i,
+#search_filters .facet .facet-label:hover a,
+#wrapper .breadcrumb a:hover i,
+.tvfooter-store-link-fax a:hover,
+.tvfooter-store-link-content a:hover {
+    color: #maincolor1;
+}
+
+a:focus,
+a:hover,
+.tvcategory-chain-slider-category:hover a,
+.tvcategory-chain-slider-category:hover:after,
+.tvproduct-timer-wrapper .seconds,
+.tvproduct-wrapper .tvproduct-timer-wrapper .seconds,
+#header .tvdesktop-wishlist:hover .tvwishlist-name span,
+#header .tvcmsdesktop-view-compare:hover .tvdesktop-view-compare-name,
+.tvall-block-box-shadows:hover .tvservices-content-box .tvservices-title,
+#header .tvdesktop-wishlist:hover .tvwishlist-icon i,
+#header .tvdesktop-view-compare:hover .tvdesktop-compare-icon i,
+#header .tv-account-wrapper:hover .tv-myaccount-btn-desktop span,
+#tvcmsdesktop-language-selector:hover .tv-language-btn i,
+#tvcmsdesktop-currency-selector:hover .tv-currency-btn i,
+.header-7 #tvcmsdesktop-language-selector:hover .tv-language-btn i,
+.header-7 #tvcmsdesktop-currency-selector:hover .tv-currency-btn i,
+.header-1 #tvcmsdesktop-language-selector:hover .tv-language-btn i,
+.header-1 #tvcmsdesktop-currency-selector:hover .tv-currency-btn i,
+.block-categories .category-sub-menu li:hover>.navbar-toggler,
+.tv-language-dropdown li a:hover,
+.tv-currency-dropdown li a:hover,
+.block-categories .collapse-icons .add:hover,
+.block-categories .collapse-icons .remove:hover,
+.block-categories .arrows .arrow-down:hover,
+.block-categories .arrows .arrow-right:hover,
+.block-categories .category-sub-menu li:hover[data-depth="0"]>a,
+.block-categories .category-sub-menu li:hover[data-depth="2"]>a,
+.block-categories .category-sub-menu li .category-sub-link:hover .block-categories .category-sub-menu li:hover .navbar-toggler,
+#tvcmsdesktop-user-info:hover .tvhedaer-sign-btn i,
+#tvcmsdesktop-language-selector:hover .tv-language-btn .tv-language-span,
+#tvcmsdesktop-currency-selector:hover .tv-currency-btn .tv-currency-span,
+.header-7 #tvcmsdesktop-language-selector:hover .tv-language-btn .tv-language-span,
+.header-7 #tvcmsdesktop-currency-selector:hover .tv-currency-btn .tv-currency-span,
+.header-1 #tvcmsdesktop-language-selector:hover .tv-language-btn .tv-language-span,
+.header-1 #tvcmsdesktop-currency-selector:hover .tv-currency-btn .tv-currency-span,
+#tvcmsdesktop-user-info .tvhedaer-sign-btn:hover,
+.tv-account-dropdown a.tvmyccount:hover,
+.tvcategory-slider-wrapper-info:hover .tvcategory-slider-info-box,
+.tvspecial-product .tvproduct-wrapper .tvproduct-timer-wrapper.tvproduct-timer-box .days,
+.tvspecial-product .tvproduct-wrapper .tvproduct-timer-wrapper.tvproduct-timer-box .hours,
+.tvspecial-product .tvproduct-wrapper .tvproduct-timer-wrapper.tvproduct-timer-box .minutes,
+.tvspecial-product .tvproduct-wrapper .tvproduct-timer-wrapper.tvproduct-timer-box .seconds,
+.block-categories .category-sub-menu li[data-depth="0"]:hover>a,
+.block-categories .category-sub-menu li[data-depth="1"]:hover>a,
+.block-categories .category-sub-menu li[data-depth="2"]:hover>a,
+.block-categories .category-sub-menu li .category-sub-link:hover,
+.tvcategory-slider-wrapper-info .tvcategory-slider-title:hover .tvcmscategory-slider-title,
+.owl-item.active .tvtestimonial-title a,
+.tvcategory-chain-title a:hover,
+#header .tv-menu-horizontal ul li.level-1 ul li.item-header a:hover,
+#header .tv-menu-horizontal ul li.level-1 ul li.item-line a:hover,
+.tv-menu-horizontal .cat-drop-menu .level-1:hover>a:after,
+.tv-menu-horizontal .cat-drop-menu .level-2:hover>a:after,
+.tv-menu-horizontal .cat-drop-menu .level-3:hover>a:after,
+.tv-menu-horizontal .cat-drop-menu .level-4:hover>a:after,
+.tv-menu-horizontal .cat-drop-menu .level-1:hover>a span,
+.tv-menu-horizontal .cat-drop-menu .level-2:hover>a span,
+.tv-menu-horizontal .cat-drop-menu .level-3:hover>a span,
+.tv-menu-horizontal .cat-drop-menu .level-4:hover>a span {
+    color: #maincolor2;
+}
+
+.tvcmsvertical-menu li.level-1:hover,
+.tvvertical-menu-show-hide-category .tvvertical-show-category:hover,
+.tvvertical-menu-show-hide-category .tvvertical-hide-category:hover {
+    border-left: 3px solid #maincolor1;
+}
+.lang-rtl .tvcmsvertical-menu li.level-1:hover,
+.lang-rtl .tvvertical-menu-show-hide-category .tvvertical-show-category:hover,
+.lang-rtl .tvvertical-menu-show-hide-category .tvvertical-hide-category:hover {
+    border-right: 3px solid #maincolor1;
+}
+.tvsearch-more-search:hover {
+    background-color: #maincolor1;
+    /*border: 1px solid #maincolor1;*/
+}
+#header .tv-menu-horizontal ul li.level-1 ul li.item-line.tvmega-menu-link a:hover:before {
+    border: 1px solid #maincolor2;
+}
+
+#tvdesktop-megamenu .tv-menu-horizontal .menu-dropdown,
+.tvcmssearch-dropdown {
+    border-bottom: 4px solid #maincolor2;
+}
+
+.tvcmscookies-notice .tvclose-icon span,
+.tv_search_filter_wrapper .tvleft-right-title-wrapper:hover i,
+/*.tv_search_filter_wrapper .tvleft-right-title-wrapper:hover .tvproduct-top-filter-name,*/
+.ttvcmscart-show-dropdown-right .ttvcart-product-list-checkout,
+.ttvcmscart-show-dropdown-right .ttvcart-product-list-viewcart:hover,
+.tvcmstheme-control .tvtheme-control-icon:hover i,
+.tvcmstheme-layout .tvtheme-layout-icon:hover i,
+.tvproduct-cart-quentity-decrement:hover i,
+.tvproduct-cart-quentity-increment:hover i,
+::selection,
+.tvsticky-up-arrow span,
+.tvsticky-wishlist .tvwishlist-sticky-name,
+.tvsticky-compare .tvsticky-compare-name,
+.tvright-sticky-account span,
+.tvright-sticky-add-to-cart span,
+.tvsticky-up-arrow:hover i,
+.tvsticky-wishlist:hover i,
+.tvsticky-compare:hover i,
+.tvright-sticky-account:hover i,
+.tvright-sticky-add-to-cart:hover i,
+.tvtab-title-wrapper .tvtabs-products li.active span,
+.tvnewsleteer-btn-wrapper .tvall-inner-btn span,
+.tvcopylink p,
+.tvcmsattrsearch-wrapper form button,
+.tvcmscategory-slider-icon i,
+.products-sort-order .select-list:hover,
+.tvmain-slider-contant .tvall-inner-btn-cancel span,
+.tvmain-slider-contant .tvall-inner-btn span,
+.tvmain-slider-contant .tvall-inner-btn-cancel i,
+.tvmain-slider-contant .tvall-inner-btn i,
+.tvproduct-wrapper .tvproduct-cart-btn .tvproduct-add-to-cart span,
+.tvproduct-wrapper .tvproduct-cart-btn .tvproduct-add-to-cart span,
+.tvproduct-wrapper .tvcmsproduct-compare-btn span,
+.tvproduct-wrapper .tvproduct-wishlist .panel-product-line span,
+.tvproduct-wrapper .tvproduct-quick-btn .tvproduct-quick-lable,
+.tvproduct-wrapper .tvproduct-cart-btn .tvproduct-add-to-cart i,
+.tvproduct-wrapper .tvproduct-add-to-cart-label,
+.input-group .input-group-btn>.btn,
+.cart-content-btn a.tvall-inner-btn span,
+.ttvcmscart-show-dropdown-right .ttvcart-product-list-checkout a,
+.ttvcmscart-show-dropdown-right .ttvcart-product-list-viewcart:hover a,
+.tvall-inner-btn-cancel span, .tvall-inner-btn span,
+.tvall-inner-btn.add-to-cart span, 
+.tvall-inner-btn.add-to-cart i,
+.tvcmsofferbanners-one .tvall-inner-btn:hover span {
+    color: #maincolortext1;
+}
+.tvproduct-wrapper .tvproduct-cart-btn:hover .tvproduct-add-to-cart span,
+.tvproduct-wrapper .tvproduct-cart-btn:hover .tvproduct-add-to-cart i,
+.tvproduct-wrapper .tvproduct-quick-btn:hover i,
+.tvproduct-wrapper .tvproduct-quick-btn:hover .tvproduct-quick-lable,
+.tvproduct-wrapper .tvproduct-wishlist:hover .panel-product-line i,
+.tvproduct-wrapper .tvproduct-wishlist:hover .tvproduct-wishlist-icon span,
+.tvproduct-wrapper .tvcompare-wrapper:hover .tvproduct-compare-icon span,
+.tvproduct-wrapper .tvcompare-wrapper:hover .tvproduct-compare-icon i.add,
+.tvproduct-wrapper .tvcompare-wrapper:hover .tvproduct-compare-icon i.remove,
+.tvcategory-title-wrapper .tvleft-right-title span,
+.tv-cart-cart-inner,
+.tvcmsvertical-menu-wrapper .tvleft-right-title-toggle,
+#tvcms-mobile-view-header .tv-account-wrapper .tv-myaccount-btn span,
+.tvtab-title-wrapper .tvtabs-products li:hover span,
+.tvproduct-wrapper .tvproduct-quick-btn i,
+.tvproduct-wrapper .tvproduct-wishlist .panel-product-line i,
+.tvproduct-wrapper .tvcompare-wrapper .tvproduct-compare-icon i.add,
+.tvproduct-wrapper .tvcompare-wrapper .tvproduct-compare-icon i.remove,
+/*.header-3 #_desktop_contact_link #contact-link span,*/
+/*.header-3 #_desktop_contact_link #contact-link i,*/
+.pagination .current a,
+#blockcart-modal .modal-title,
+.tv-addtocart-msg-wrapper .tv-addtocart-close,
+.tv-menu-horizontal>ul>li:hover>a span,
+.tv-menu-horizontal>ul>li:hover>a:after,
+.tv-menu-horizontal>ul>li:hover>a i,
+.tv-menu-horizontal>ul>li.home_menu>a,
+.tv-menu-horizontal>ul>li.home_menu>a i,
+.header-7 .tvcmsdesktop-view-wishlist .tvwishlist-name .tv-cart-wishlist-inner,
+.tvtabcategory-product-li.active a,
+.tvtabcategory-product-li:hover a,
+.tvall-inner-btn:hover span,
+.tvall-inner-btn:hover i,
+.tvtabcategory-show a,
+.tvtabcategory-hide a,
+.tvnewsleteer-btn-wrapper .tvall-inner-btn:hover span,
+.tvproduct-wrapper .tvproduct-cart-btn:hover .tvproduct-add-to-cart i,
+.tvproduct-wrapper .tvproduct-out-of-stock i.out-of-stock.hide,
+.tv-menu-horizontal li.level-1.parent:hover>a:after,
+#header .header-7 .tvcmsdesktop-view-wishlist .tvwishlist-name .tv-cart-wishlist-inner,
+.header-7 .tvcmsdesktop-view-compare .tvdesktop-view-compare-name,
+.header-7 #tvcmsdesktop-language-selector .tv-language-btn .tv-language-span,
+.header-7 #tvcmsdesktop-currency-selector .tv-currency-btn .tv-currency-span,
+.header-1 #tvcmsdesktop-language-selector .tv-language-btn .tv-language-span,
+.header-1 #tvcmsdesktop-currency-selector .tv-currency-btn .tv-currency-span,
+.header-7 #tvcmsdesktop-language-selector .tv-language-btn i,
+.header-7 #tvcmsdesktop-currency-selector .tv-currency-btn i,
+.header-1 #tvcmsdesktop-language-selector .tv-language-btn i,
+.header-1 #tvcmsdesktop-currency-selector .tv-currency-btn i,
+.header-7 .tvheader-nav-offer-text p,
+.header-1 .tvheader-nav-offer-text p,
+.header-7 .tvheader-nav-offer-text i,
+.header-1 .tvheader-nav-offer-text i,
+.tvcmsofferbanners-one .tvall-inner-btn span,
+.tvcmsblog-left-side .tvblog-img-block .tvmonth-time span {
+    color: #maincolortext2;
+}
+
+#header .tvheader-cart-wrapper:hover .tv-cart-icon-main svg g path {
+    fill: #maincolor2 !important;
+}
+
+.tvcmsheader-search.search-widget form .tvheader-top-search-wrapper button[type=submit] svg g path,
+.tvcmsheader-search.search-widget form .tvheader-top-search-wrapper button[type=submit] svg g rect,
+.tvcmsheader-search.search-widget form .tvheader-top-search-wrapper:hover button[type=submit] svg g path,
+.tvcmsheader-search.search-widget form .tvheader-top-search-wrapper:hover button[type=submit] svg g rect,
+.tvcmsdesktop-view-compare:hover .tvdesktop-compare-icon svg path,
+#tvcmsdesktop-currency-selector:hover .tv-currency-btn svg path,
+.header-7 #tvcmsdesktop-currency-selector:hover .tv-currency-btn svg path,
+.header-1 #tvcmsdesktop-currency-selector:hover .tv-currency-btn svg path {
+    fill: #maincolor2 !important;
+}
+
+
+/*#products .tvproduct-view.tvproduct-grid:hover svg.tvgrid g path,
+#products .tvproduct-view.tvproduct-grid-2:hover svg.tvgrid-2 g path,
+#products .tvproduct-view.tvproduct-list:hover svg.tvlist g path,
+#products .tvproduct-view.tvproduct-list-2:hover svg.tvlist-2 g path,
+#products .tvproduct-view.tvproduct-catelog:hover svg.tvcatelog g path,
+#products .tvproduct-view.tvproduct-catelog:hover svg.tvcatelog g polygon,
+#products .tvproduct-view.tvproduct-grid.active svg.tvgrid g path,
+#products .tvproduct-view.tvproduct-grid-2.active svg.tvgrid-2 g path,
+#products .tvproduct-view.tvproduct-list.active svg.tvlist g path,
+#products .tvproduct-view.tvproduct-list-2.active svg.tvlist-2 g path,
+#products .tvproduct-view.tvproduct-catelog.active svg.tvcatelog g path,
+#products .tvproduct-view.tvproduct-catelog.active svg.tvcatelog g polygon,*/
+/*.tvcmsheader-search.search-widget form .tvheader-top-search-wrapper button[type=submit] svg g path,
+.tvcmsheader-search.search-widget form .tvheader-top-search-wrapper button[type=submit] svg g rect*/
+.tvproduct-wrapper .tvproduct-wishlist .panel-product-line i path,
+.tvproduct-wrapper .tvproduct-wishlist .panel-product-line svg path,
+.tvproduct-wrapper .tvcompare-wrapper .tvproduct-compare-icon svg.add path,
+.tvproduct-wrapper .tvcompare-wrapper .tvproduct-compare-icon svg.remove path,
+.tvproduct-quick-btn .tvproduct-quick-icon svg path,
+.tvproduct-add-to-cart svg.add-cart path {
+    fill: #maincolortext1 !important;
+}
+
+.tvproduct-cart-btn:hover .tvproduct-add-to-cart svg.add-cart g path,
+.tvproduct-wrapper .tvproduct-wishlist:hover .panel-product-line i path,
+.tvproduct-wrapper .tvproduct-wishlist:hover .panel-product-line svg path,
+.tvproduct-wrapper .tvcompare-wrapper:hover .tvproduct-compare-icon svg.add path,
+.tvproduct-wrapper .tvcompare-wrapper:hover .tvproduct-compare-icon svg.remove path,
+.tvproduct-quick-btn:hover .tvproduct-quick-icon svg path,
+.header-7 #tvcmsdesktop-currency-selector .tv-currency-btn svg path,
+.header-7 .tvdesktop-compare-icon svg path,
+.header-1 #tvcmsdesktop-currency-selector .tv-currency-btn svg path {
+    fill: #maincolortext2 !important;
+}
+.tvproduct-cart-btn:hover .tvproduct-add-to-cart svg.add-cart g path:nth-child(1) {
+    stroke: #maincolortext2 !important;
+    fill: none !important;
+}
+
+.tvdesktop-wishlist:hover .tvwishlist-icon svg path,
+.tv-account-wrapper:hover .tv-myaccount-btn svg path:nth-child(1),
+#header .tv-account-wrapper:hover .tv-myaccount-btn-desktop svg circle,
+#header .tv-account-wrapper:hover .tv-myaccount-btn-desktop svg path:nth-child(1),
+#header .tvheader-cart-wrapper:hover .tv-cart-icon-main svg g ellipse {
+    fill: none;
+    stroke: #maincolor2 !important;
+}
+
+.tvproduct-cart-btn .tvproduct-add-to-cart svg.add-cart g path:nth-child(1) {
+    stroke: #maincolortext1 !important;
+    fill: none !important;
+}
+
+#header .header-4 .tv-menu-horizontal ul li.level-1>a,
+#header .header-6 .tv-menu-horizontal ul li.level-1>a {
+    color: #000000;
+}
+
+@media (min-width: 992px) {
+    .tv-language-dropdown,
+    .tv-currency-dropdown {
+        /*border-bottom-color: #maincolor1;*/
+    }
+    .text2-light .header-4 .tv-menu-horizontal li.level-1 .img-icon,
+    .text2-light .header-6 .tv-menu-horizontal li.level-1 .img-icon {
+        filter: invert(0);
+    }
+
+    .text2-light .header-4 .tv-menu-horizontal li.level-1:hover .img-icon,
+    .text2-light .header-6 .tv-menu-horizontal li.level-1:hover .img-icon,
+    .text2-light .tv-menu-horizontal>ul>li:hover>a .img-icon {
+        filter: invert(1);
+    }
+
+    .text2-dark .header-4 .tv-menu-horizontal li.level-1:hover .img-icon,
+    .text2-dark .header-6 .tv-menu-horizontal li.level-1:hover .img-icon,
+    .text2-dark .tv-menu-horizontal>ul>li:hover>a .img-icon {
+        filter: invert(0);
+    }
+}
+
+#header .tv-menu-horizontal ul li.level-1>a {
+    /*text-shadow: 1.2px 1px #altcolortext285;*/
+}
+#header .tv-menu-horizontal ul li.level-1>a .menu-subtitle {
+    text-shadow: none;
+}
+
+.text1-dark .tvcmsfooter-social-icon .tvfooter-social-icon-wrapper li a {
+    filter: invert(1);
+}

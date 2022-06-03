@@ -1,0 +1,190 @@
+/**
+* 2007-2022 PrestaShop
+*
+* NOTICE OF LICENSE
+*
+* This source file is subject to the Academic Free License (AFL 3.0)
+* that is bundled with this package in the file LICENSE.txt.
+* It is also available through the world-wide-web at this URL:
+* http://opensource.org/licenses/afl-3.0.php
+* If you did not receive a copy of the license and are unable to
+* obtain it through the world-wide-web, please send an email
+* to license@prestashop.com so we can send you a copy immediately.
+*
+* DISCLAIMER
+*
+* Do not edit or add to this file if you wish to upgrade PrestaShop to newer
+* versions in the future. If you wish to customize PrestaShop for your
+* needs please refer to http://www.prestashop.com for more information.
+*
+*  @author PrestaShop SA <contact@prestashop.com>
+*  @copyright  2007-2022 PrestaShop SA
+*  @license    http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
+*  International Registered Trademark & Property of PrestaShop SA
+*/
+
+/****************************category*********************/
+.tvcategory-chain-slider-category-inner {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.tvcategory-chain-slider-main-title-wrapper {
+    position: relative;
+}
+
+.tvcmscategory-chain-slider {
+    margin-bottom: 50px;
+}
+.tvcategory-chain-slider-wrapper {
+    border: 1px solid #eee;
+    padding: 0;
+    border-radius: 3px;
+    overflow: hidden;
+    background-color: #fff;
+}
+.tvcategory-chain-slider-category a {
+    color: #333;
+    font-size: 14px;
+    font-weight: 400;
+    display: block;
+    letter-spacing: 0.3px;
+    padding-left: 30px;
+    position: relative;
+}
+.tvcategory-chain-slider-category:hover a {
+    /*color: #c70909;*/
+}
+.tvcategory-chain-slider-wrapper-info {
+    padding: 7.5px;
+    /*width: 33.33%;*/
+    /*display: inline-block;*/
+}
+.tvcategory-chain-slider-wrapper:hover {
+    box-shadow: 0 5px 10px 0 rgb(23 84 116 / 18%);
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+}
+.tvcategory-chin-img-block {
+    padding: 0;
+}
+.tvcategory-chain-content-wrapper {
+    padding: 20px 20px 2px 20px;
+}
+.tvcategory-chain-title {
+    text-align: center;
+    padding: 12px;
+    position: relative;
+}
+.tvcategory-chain-title:after {
+    position: absolute;
+    content: "";
+    width: 90%;
+    height: 1px;
+    background-color: #e5e5e5;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    text-align: center;
+}
+.tvcategory-chain-slider-all-link a {
+    font-weight: 500;
+    font-size: 14px;
+}
+.tvcategory-chain-slider-all-link i {
+    font-size: 13px;
+    color: #333;
+    margin-left: 5px;
+}
+.tvcategory-chain-title a {
+    color: #333;
+    font-size: 16px;
+    font-weight: 500;
+    text-transform: capitalize;
+    letter-spacing: 0.3px;
+}
+.tvcategory-chain-slider-category {
+    width: 50%;
+    float: left;
+    padding-bottom: 18px;
+    position: relative;
+}
+a.tvcategory-chain-slider-category {
+    color: #333333;
+    font-size: 14px;
+    font-weight: 400;
+    display: block;
+    letter-spacing: 0.3px;
+    padding-left: 30px;
+    position: relative;
+}
+.tvcategory-chain-slider-category:hover:after,
+.tvcategory-chain-slider-category:hover {
+    color: #28a745;
+}
+.tvcategory-chain-slider-category:after {
+    position: absolute;
+    font-family: 'Material Icons';
+    content: '\e315';
+    font-size: 16px;
+    left: 5px;
+    color: #333333;
+    top: 25%;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -o-transform: translate(0, -50%);
+    -ms-transform: translate(0, -50%);
+    -moz-transform: translate(0, -50%);
+}
+@media(max-width: 991px) {
+    .tvcmscategory-chain-slider {
+        margin-bottom: 30px;
+    }
+}
+
+.lang-rtl .tvcategory-chain-slider-category {
+    text-align: right;
+    padding-left: 0;
+    padding-right: 30px;
+}
+.lang-rtl .tvcategory-chain-slider-category:after {
+    right: 5px;
+    left: auto;
+    transform: rotate(180deg) translate(0, 50%);
+}
+
+
+@media (max-width: 1024px) {
+    .tvcategory-chain-slider-wrapper-info {
+        /*width: 33.3333%;*/
+    }
+    .tvcategory-chain-title a {
+        /*font-size: 16px;*/
+    }
+    .tvcategory-chain-slider-category a {
+        /*font-size: 13px;*/
+    }
+}
+
+@media (max-width: 768px) {
+    .tvcategory-chain-slider-wrapper-info {
+        /*width: 50%;*/
+    }
+    .tvcategory-chain-title a {
+        /*font-size: 18px;*/
+    }
+    .tvcategory-chain-slider-category a {
+        /*font-size: 14px;*/
+    }
+}
+
+@media (max-width: 575px) {
+    .tvcategory-chain-slider-wrapper-info {
+        /*width: 100%;*/
+    }
+}

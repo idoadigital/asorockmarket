@@ -1,0 +1,42 @@
+<?php
+/* Smarty version 3.1.43, created on 2022-05-05 14:35:23
+  from '/home/t87ihn5k7gt9/public_html/ecommerce/modules/tvcmsproductpopup/views/templates/hook/tvcmsproductpopup_footer.tpl' */
+
+/* @var Smarty_Internal_Template $_smarty_tpl */
+if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
+  'version' => '3.1.43',
+  'unifunc' => 'content_6273e0abb74e10_20106383',
+  'has_nocache_code' => false,
+  'file_dependency' => 
+  array (
+    '69e78464b0ab3e22040876b46a05ab254e3f2995' => 
+    array (
+      0 => '/home/t87ihn5k7gt9/public_html/ecommerce/modules/tvcmsproductpopup/views/templates/hook/tvcmsproductpopup_footer.tpl',
+      1 => 1651641689,
+      2 => 'file',
+    ),
+    '37c887d6524afdbe5ba534a24445cf53d038066c' => 
+    array (
+      0 => '/home/t87ihn5k7gt9/public_html/ecommerce/modules/tvcmsproductpopup/views/templates/hook/product.tpl',
+      1 => 1651641689,
+      2 => 'file',
+    ),
+  ),
+  'cache_lifetime' => 31536000,
+),true)) {
+function content_6273e0abb74e10_20106383 (Smarty_Internal_Template $_smarty_tpl) {
+?>
+<div class="prod-animation tvcms-snackbar hidden-sm-down">
+						<div class="tvcms-prod-popup">
+							    <div class="tvproduct-wrapper bottom-to-top hb-animate-element"><span class="tvprodpopup-close"><i class="material-icons">&#xe5cd;</i></span><div class="tvproduct-image"><a href="http://www.canvrr.com/ecommerce/home-accessories/19-customizable-mug.html" class="thumbnail product-thumbnail"><img src="http://www.canvrr.com/ecommerce/22-side_product_default/customizable-mug.jpg" alt="Customizable mug" class="tvproduct-defult-img tv-img-responsive" height="86" width="86" loading="lazy"></a><ul class="product-flags tvproduct-online-new-wrapper"><li class="product-flag new">New</li></ul></div><div class="tvproduct-info-box-wrapper"><div class="product-description"><div class="tvall-product-star-icon"><div class="star_content"><div class="star"><i class='material-icons'>&#xe838;</i> </div><div class="star"><i class='material-icons'>&#xe838;</i> </div><div class="star"><i class='material-icons'>&#xe838;</i> </div><div class="star"><i class='material-icons'>&#xe838;</i> </div><div class="star"><i class='material-icons'>&#xe838;</i> </div></div></div><div class="tvproduct-name product-title"><a href="http://www.canvrr.com/ecommerce/home-accessories/19-customizable-mug.html"><h6>Customizable mug</h6></a></div><div class="tv-product-price"><div class="product-price-and-shipping"><span class="price">$13.90</span></div></div></div></div></div>						</div>
+					<div class="tvcms-prod-popup">
+							    <div class="tvproduct-wrapper bottom-to-top hb-animate-element"><span class="tvprodpopup-close"><i class="material-icons">&#xe5cd;</i></span><div class="tvproduct-image"><a href="http://www.canvrr.com/ecommerce/stationery/18-36-hummingbird-notebook.html#/22-paper_type-ruled" class="thumbnail product-thumbnail"><img src="http://www.canvrr.com/ecommerce/20-side_product_default/hummingbird-notebook.jpg" alt="Mountain fox notebook" class="tvproduct-defult-img tv-img-responsive" height="86" width="86" loading="lazy"></a><ul class="product-flags tvproduct-online-new-wrapper"><li class="product-flag new">New</li></ul></div><div class="tvproduct-info-box-wrapper"><div class="product-description"><div class="tvall-product-star-icon"><div class="star_content"><div class="star"><i class='material-icons'>&#xe838;</i> </div><div class="star"><i class='material-icons'>&#xe838;</i> </div><div class="star"><i class='material-icons'>&#xe838;</i> </div><div class="star"><i class='material-icons'>&#xe838;</i> </div><div class="star"><i class='material-icons'>&#xe838;</i> </div></div></div><div class="tvproduct-name product-title"><a href="http://www.canvrr.com/ecommerce/stationery/18-36-hummingbird-notebook.html#/22-paper_type-ruled"><h6>Hummingbird notebook</h6></a></div><div class="tv-product-price"><div class="product-price-and-shipping"><span class="price">$12.90</span></div></div></div></div></div>						</div>
+					<div class="tvcms-prod-popup">
+							    <div class="tvproduct-wrapper bottom-to-top hb-animate-element"><span class="tvprodpopup-close"><i class="material-icons">&#xe5cd;</i></span><div class="tvproduct-image"><a href="http://www.canvrr.com/ecommerce/stationery/17-32-brown-bear-notebook.html#/22-paper_type-ruled" class="thumbnail product-thumbnail"><img src="http://www.canvrr.com/ecommerce/19-side_product_default/brown-bear-notebook.jpg" alt="Mountain fox notebook" class="tvproduct-defult-img tv-img-responsive" height="86" width="86" loading="lazy"></a><ul class="product-flags tvproduct-online-new-wrapper"><li class="product-flag new">New</li></ul></div><div class="tvproduct-info-box-wrapper"><div class="product-description"><div class="tvall-product-star-icon"><div class="star_content"><div class="star"><i class='material-icons'>&#xe838;</i> </div><div class="star"><i class='material-icons'>&#xe838;</i> </div><div class="star"><i class='material-icons'>&#xe838;</i> </div><div class="star"><i class='material-icons'>&#xe838;</i> </div><div class="star"><i class='material-icons'>&#xe838;</i> </div></div></div><div class="tvproduct-name product-title"><a href="http://www.canvrr.com/ecommerce/stationery/17-32-brown-bear-notebook.html#/22-paper_type-ruled"><h6>Brown bear notebook</h6></a></div><div class="tv-product-price"><div class="product-price-and-shipping"><span class="price">$12.90</span></div></div></div></div></div>						</div>
+					<div class="tvcms-prod-popup">
+							    <div class="tvproduct-wrapper bottom-to-top hb-animate-element"><span class="tvprodpopup-close"><i class="material-icons">&#xe5cd;</i></span><div class="tvproduct-image"><a href="http://www.canvrr.com/ecommerce/stationery/16-28-mountain-fox-notebook.html#/22-paper_type-ruled" class="thumbnail product-thumbnail"><img src="http://www.canvrr.com/ecommerce/18-side_product_default/mountain-fox-notebook.jpg" alt="Mountain fox notebook" class="tvproduct-defult-img tv-img-responsive" height="86" width="86" loading="lazy"></a><ul class="product-flags tvproduct-online-new-wrapper"><li class="product-flag new">New</li></ul></div><div class="tvproduct-info-box-wrapper"><div class="product-description"><div class="tvall-product-star-icon"><div class="star_content"><div class="star"><i class='material-icons'>&#xe838;</i> </div><div class="star"><i class='material-icons'>&#xe838;</i> </div><div class="star"><i class='material-icons'>&#xe838;</i> </div><div class="star"><i class='material-icons'>&#xe838;</i> </div><div class="star"><i class='material-icons'>&#xe838;</i> </div></div></div><div class="tvproduct-name product-title"><a href="http://www.canvrr.com/ecommerce/stationery/16-28-mountain-fox-notebook.html#/22-paper_type-ruled"><h6>Mountain fox notebook</h6></a></div><div class="tv-product-price"><div class="product-price-and-shipping"><span class="price">$12.90</span></div></div></div></div></div>						</div>
+					<div class="tvcms-prod-popup">
+							    <div class="tvproduct-wrapper bottom-to-top hb-animate-element"><span class="tvprodpopup-close"><i class="material-icons">&#xe5cd;</i></span><div class="tvproduct-image"><a href="http://www.canvrr.com/ecommerce/home-accessories/15-pack-mug-framed-poster.html" class="thumbnail product-thumbnail"><img src="http://www.canvrr.com/ecommerce/23-side_product_default/pack-mug-framed-poster.jpg" alt="Pack Mug + Framed poster" class="tvproduct-defult-img tv-img-responsive" height="86" width="86" loading="lazy"></a><ul class="product-flags tvproduct-online-new-wrapper"><li class="product-flag new">New</li><li class="product-flag pack">Pack</li></ul></div><div class="tvproduct-info-box-wrapper"><div class="product-description"><div class="tvall-product-star-icon"><div class="star_content"><div class="star"><i class='material-icons'>&#xe838;</i> </div><div class="star"><i class='material-icons'>&#xe838;</i> </div><div class="star"><i class='material-icons'>&#xe838;</i> </div><div class="star"><i class='material-icons'>&#xe838;</i> </div><div class="star"><i class='material-icons'>&#xe838;</i> </div></div></div><div class="tvproduct-name product-title"><a href="http://www.canvrr.com/ecommerce/home-accessories/15-pack-mug-framed-poster.html"><h6>Pack Mug + Framed poster</h6></a></div><div class="tv-product-price"><div class="product-price-and-shipping"><span class="price">$35.00</span></div></div></div></div></div>						</div>
+			
+</div><?php }
+}
