@@ -3,9 +3,9 @@
   array (
     'database_host' => 'localhost',
     'database_port' => '',
-    'database_name' => 'i8667018_pr1',
-    'database_user' => 'i8667018_pr1',
-    'database_password' => 'S.w7e8pjuwc1rbRSeRm77',
+    'database_name' => 'asorockdb',
+    'database_user' => 'forge',
+    'database_password' => 'wxHEZ6Ih8MuvdEU8ZHpy',
     'database_prefix' => 'pr_',
     'database_engine' => 'InnoDB',
     'mailer_transport' => 'smtp',
